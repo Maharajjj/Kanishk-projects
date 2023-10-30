@@ -1,4 +1,4 @@
-# Kanishk-projects
+# Kanishk-projects FOR WINDOWS
 Projects I have done and working on
 
 Introduction
